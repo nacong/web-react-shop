@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+body {
+  font-family: 'nanumsquare';
+}
 
 .background {
   background-image: url("https://blog.kakaocdn.net/dn/9mAvP/btqxJToLugv/XlZRIB2khPSBOW3BzCgFx0/img.png");

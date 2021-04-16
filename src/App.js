@@ -1,11 +1,10 @@
 /* eslint-disable */
-import { Navbar,Nav,NavDropdown,Form,Button,FormControl,Jumbotron,Row,Col } from 'react-bootstrap';
+import { Navbar,Nav,NavDropdown,Form,Button,FormControl,Jumbotron, } from 'react-bootstrap';
 import React, { useState } from 'react';
 import './App.css';
 import shoesData from './data.js';
 import Detail from './Detail.js';
 import Navbars from './Navbars.js';
-
 
 import { Link, Route, Switch } from 'react-router-dom';
 
